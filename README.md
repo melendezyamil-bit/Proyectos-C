@@ -28,4 +28,3 @@ Si quieres clonar y compilar este código localmente, ejecuta los siguientes com
 
    # En Linux:
    ./cifrador
-   ### ¿Cómo lo arreglas rapidísimo?
