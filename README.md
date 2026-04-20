@@ -28,3 +28,4 @@ Si quieres clonar y compilar este código localmente, ejecuta los siguientes com
 
    # En Linux:
    ./cifrador
+Nota del Autor: Desarrollado con fines educativos. Siempre validando entradas y aprendiendo a pensar como atacante y como defensor.
