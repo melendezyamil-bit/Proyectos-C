@@ -21,3 +21,22 @@ Si quieres clonar y compilar este código localmente, ejecuta los siguientes com
 1. Compila el archivo fuente:
    ```bash
    gcc cifrador.c -o cifrador
+Markdown
+2. Ejecuta el programa binario:
+   ```bash
+   # En Windows:
+   cifrador.exe
+
+   # En Linux:
+   ./cifrador
+Nota del Autor: Desarrollado con fines educativos. Siempre validando entradas y aprendiendo a pensar como atacante y como defensor. 🛡️
+
+
+### ¿Cómo lo arreglas rapidísimo?
+1. En esa misma pantalla que me mandaste, dale clic al ícono del **lápiz ✏️** (arriba a la derecha) para volver al modo de edición.
+2. Vete hasta la última línea de tu texto, da un par de "Enters" y **pega el bloque que te acabo de poner aquí arriba**.
+3. Dale al botón verde de **"Commit changes"** (Confirmar cambios) para guardar.
+
+¡Y con eso queda al 100%! 
+
+Una vez que guardes eso, ya puedes ir a tu perfil principal para admirar tu obra de arte y ver ese primer cuadrito verde brillando en tu calendario. ¿Pudiste agregarle esa última parte sin problemas?
